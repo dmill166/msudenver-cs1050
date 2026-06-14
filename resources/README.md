@@ -14,9 +14,9 @@ Zelle covers all 12 CS 1050 learning objectives. Note: this book is intentionall
 - A code editor (VS Code, Thonny for beginners, or IDLE which ships with Python).
 - Zelle's `graphics.py` module for the graphics-based examples (Ch. 4, 10) — bundled with the textbook materials.
 
-## Setup
+## Setup — Module 0
 
-A `setup.md` with step-by-step environment instructions (install Python, editor, `graphics.py`, verify) will live here. _Planned._
+Step-by-step environment setup (install current Python on macOS/Windows/Linux, choose an editor, verify it works, troubleshoot the common failures) lives in **[`setup/`](setup/)**. This is the course's day-one gate — no prior experience assumed.
 
 ## Accessibility note
 

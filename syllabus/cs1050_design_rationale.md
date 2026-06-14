@@ -39,6 +39,7 @@ Ordered for a no-prerequisite learner; each unit lists the MSU objective(s) it s
 
 | # | Unit | Covers MSU obj. | CS2 bridge | Zelle 4e | MIT 6.100L |
 |---|---|---|---|---|---|
+| 00 | **Module 0 — Set up Python** (per-OS install, editor, verify) | — (enabler) | — | — | — |
 | 0 | What is computation; how programs run | 12 (SDLC intro) | — | 1 | L1 |
 | 1 | Values, types, variables, expressions, interactive I/O | 6, 7, 8 | — | 2–3 | L2 |
 | 2 | Decisions / branching | 6 | — | 7 | L2 |
@@ -63,6 +64,10 @@ Ordered for a no-prerequisite learner; each unit lists the MSU objective(s) it s
 - **Light touch / optional:** Zelle's graphics chapters (Ch. 4, 10) are great for engagement but not load-bearing for CS2 — use as motivating examples, not required mastery. MIT's numerical methods (float approximation, bisection on functions) become *one* lesson on binary/bisection search rather than a numerical-methods unit, to stay math-light.
 - **Out (belongs to CS2 / later):** ADT *implementation* (linked lists, stacks, queues, trees), formal complexity proofs, advanced sorting (merge/quurt analysis beyond a demo). CS1 builds the intuition; CS2 builds the structures.
 - **Kept because MSU requires it and it's genuinely valuable:** the **written report + oral presentation**. Communication is an ABET outcome (SO-3) and rarely assessed this early — it's a differentiator, not overhead.
+
+## Module 0 — environment setup (the true day-one step)
+
+A no-prerequisite course cannot assume a working interpreter, so **Module 0 is environment setup**, distinct from the conceptual Unit 0. It's a per-OS install guide (macOS / Windows / Linux), an IDLE-first editor recommendation aligned to Zelle (with Thonny and VS Code as alternatives), a copy-paste **verify** step, and a troubleshooting section for the predictable failures (Windows PATH, macOS `python` vs `python3`). It lives in `resources/setup/` so it doubles as a permanent reference, and it's the gate every later week depends on. Modernized from the author's two earlier install posts (current Python, Linux added, single-install discipline). This is also strong standalone build-in-public content — "how to install Python without prior experience" is one of the most-searched beginner questions.
 
 ## Accessibility / no-prereq design principles
 
