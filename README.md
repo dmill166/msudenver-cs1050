@@ -4,6 +4,8 @@ Open, MSU Denver–aligned course materials for **CS 1050: Computer Science 1**,
 
 Part of the [`cs-teaching`](https://github.com/dmill166/cs-teaching) initiative — building CS course materials in public.
 
+> **Affiliation:** Independent materials by Dakota Hollmann. **Not affiliated with, endorsed by, or sponsored by Metropolitan State University of Denver.** MSU Denver course codes and objectives are referenced for curriculum alignment only.
+
 > **Status:** scaffold (2026-06-14). Syllabus v1 and the ABET/CS2023 outcomes map are drafted; lecture/lab/assignment content is in progress.
 
 ## What's here
