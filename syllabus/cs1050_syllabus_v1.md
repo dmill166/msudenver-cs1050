@@ -1,7 +1,7 @@
 # CS 1050 — Computer Science 1
 ## Syllabus (v1 draft)
 
-> **Draft status (2026-06-14):** Built from the MSU Denver course-of-record (Regular Course Syllabus, CS 1050, Fall 2016) plus the locked Python/Zelle decision. Schedule and grading weights are *proposed* and will be finalized against a current section syllabus from the department. Not yet an official section syllabus.
+> **Draft status (2026-06-14):** Built from the MSU Denver course-of-record (Regular Course Syllabus, CS 1050, Fall 2016) + the 2026 Curriculog revision + the locked Python/Zelle decision. The **content scope is governed by [`cs1050_design_rationale.md`](cs1050_design_rationale.md)** (a portable, MIT-informed, CS2-ready design); the 9 units below are the MSU course-of-record framing the design maps onto. Schedule and grading weights are *proposed*. Not yet an official section syllabus.
 
 ---
 
@@ -11,7 +11,7 @@
 |---|---|
 | **Course** | CS 1050 — Computer Science 1 |
 | **Credits** | 4 (all lecture; 60 lecture hours + ~120 hours additional student work) |
-| **Prerequisite** | CS 1030 with "C" or better, **or** readiness for MTH 1110 |
+| **Prerequisite** | **None** (per the 2026 Curriculog revision, which removes the MTH 1110 math-readiness gate to broaden access; no prior Python assumed). *Historical course-of-record listed: CS 1030 with "C" or better, or readiness for MTH 1110.* |
 | **Language** | Python 3 |
 | **Textbook** | John Zelle, *Python Programming: An Introduction to Computer Science*, 4th ed. (Franklin, Beedle & Associates, 2024) |
 

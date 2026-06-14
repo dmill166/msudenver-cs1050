@@ -23,12 +23,12 @@ Solution keys, exams, rubrics, and grading scripts live in a **private** sibling
 ## Course at a glance
 
 - **Credits:** 4 (all lecture)
-- **Prerequisite:** CS 1030 with "C" or better, or readiness for MTH 1110
+- **Prerequisite:** none — no prior programming or math assumed (accessibility-first; see design rationale)
 - **Language:** Python 3
 - **Textbook:** John Zelle, *Python Programming: An Introduction to Computer Science*, 4th ed. (Franklin, Beedle & Associates, 2024)
 - **Focus:** algorithm development, correctness, programming style, intro to software engineering and the development life cycle
 
-See [`syllabus/cs1050_syllabus_v1.md`](syllabus/cs1050_syllabus_v1.md) for the full picture and [`syllabus/outcomes_map_abet_cs2023.md`](syllabus/outcomes_map_abet_cs2023.md) for how the 12 course objectives map to ABET CAC student outcomes and the ACM/IEEE-CS CS2023 knowledge areas.
+See [`syllabus/cs1050_design_rationale.md`](syllabus/cs1050_design_rationale.md) for the course-design philosophy (portable, MIT-informed, CS2-ready, no-prerequisite), [`syllabus/cs1050_syllabus_v1.md`](syllabus/cs1050_syllabus_v1.md) for the full syllabus, and [`syllabus/outcomes_map_abet_cs2023.md`](syllabus/outcomes_map_abet_cs2023.md) for how the 12 course objectives map to ABET CAC student outcomes and the ACM/IEEE-CS CS2023 knowledge areas.
 
 ## Licensing
 
