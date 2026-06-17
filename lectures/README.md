@@ -1,6 +1,10 @@
 # Lectures
 
-Lecture notes and slides, organized by the **9 CS 1050 content units**. Each unit maps to one or more Zelle (4th ed) chapters and to the ABET/CS2023 outcomes — see [`../syllabus/outcomes_map_abet_cs2023.md`](../syllabus/outcomes_map_abet_cs2023.md).
+Lecture content for **CS 1050**. Folders follow the **13-unit design-rationale spine** — the teaching order (see the [schedule](../syllabus/cs1050_schedule_fall2026.md) and [design rationale](../syllabus/cs1050_design_rationale.md)) — one folder per topic, each built to the cross-course per-topic template (`cs-teaching` module standard + lecture framework). **Dakota is the primary author** of every lecture: the content is in his voice; assistants scaffold structure, draft mechanical parts, and edit — they do not ghost-write.
+
+The table below is the MSU **course-of-record coverage** (the 9 catalog units → Zelle chapters), kept for outcomes mapping — *not* the folder structure.
+
+## Course-of-record coverage (outcomes mapping)
 
 | # | Unit | Zelle 4e | Zelle 3e | Status |
 |---|---|---|---|---|
@@ -18,7 +22,7 @@ Lecture notes and slides, organized by the **9 CS 1050 content units**. Each uni
 
 ## Convention
 
-- One folder per unit: `NN_unit_name/`
+- One folder per **spine topic**, in teaching order: `NN_topic_name/`
 - Notes in Markdown; slides exported alongside (or authored in Markdown + a slide tool).
 - These notes are the **source of truth** and render on dakotalearns.com via the site's build-time sync — there is no separate "article" copy to keep in step.
 - Keep runnable example code in the unit folder; it's under the repo's code license (PolyForm Noncommercial) and may be reused as starter code.
