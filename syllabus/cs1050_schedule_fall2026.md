@@ -29,7 +29,7 @@ Because the **100% drop deadline is the end of Week 1** and the **50% deadline i
 
 ## Week-by-week (15 instructional weeks)
 
-> Unit numbers reference the design-rationale topic spine. Front-loaded so Weeks 1–5 form the complete "teachable spine" that gets built first.
+> Unit numbers reference the design-rationale topic spine. Front-loaded so Weeks 1–5 form the complete "teachable spine" that gets built first. Zelle chapter↔unit mapping (**4e** primary, **3e** budget) lives in the [design rationale](cs1050_design_rationale.md) and the syllabus schedule table.
 
 | Wk | Week of | Units / focus | Calendar notes | Assessment milestones |
 |---|---|---|---|---|

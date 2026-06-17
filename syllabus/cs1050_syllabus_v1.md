@@ -53,26 +53,28 @@ By the end of CS 1050, a student can:
 ## Proposed schedule (15 weeks)
 
 > **For a real term, use the dated schedule:** [`cs1050_schedule_fall2026.md`](cs1050_schedule_fall2026.md) maps the units onto MSU's Fall 2026 calendar with actual dates, holidays, drop/withdraw deadlines, and finals. The table below is the generic, date-free version.
-> Front-loaded so weeks 1–5 form a complete "teachable spine." Zelle chapter numbers below follow the 3rd-ed ToC; reconcile to the 4th ed when confirmed.
+> Ordered by the **[design-rationale topic spine](cs1050_design_rationale.md)** (control-structures-first, MIT-aligned) — *not* the textbook's chapter order. "Unit" = spine unit; chapter columns give **Zelle 4e (primary)** and **3e (budget)**. Front-loaded so weeks 1–5 form a complete "teachable spine."
 
-| Wk | Topic | Zelle ch. | Unit |
-|---|---|---|---|
-| 1 | Computers, programs, and the Python environment | 1 | 1 |
-| 2 | Writing simple programs; the development process | 2 | 1, 2 |
-| 3 | Computing with numbers; data types & expressions | 3 | 4 |
-| 4 | Objects & graphics (using objects) | 4 | 6 |
-| 5 | Sequences: strings, lists, and files | 5 | 4, 5, 9 |
-| 6 | Defining functions; parameters & return values | 6 | 3, 4 |
-| 7 | Decision structures; exception handling | 7 | 7, 3 |
-| 8 | **Midterm** + review | — | — |
-| 9 | Loop structures and booleans | 8 | 8 |
-| 10 | Simulation & design (top-down design) | 9 | 2, 9-design |
-| 11 | Defining classes | 10 | 6 |
-| 12 | Data collections (lists, records, dictionaries) | 11 | 9 |
-| 13 | Object-oriented design | 12 | 6 |
-| 14 | Algorithm design: searching, recursion, sorting | 13 | 9 |
-| 15 | Review + presentations | — | — |
-| Finals | **Final exam** | — | — |
+| Wk | Focus | Unit | Zelle 4e | Zelle 3e |
+|---|---|---|---|---|
+| 1 | Module 0 setup · what is computation · first program | 0, 1 | 1 | 1 |
+| 2 | Values, types, expressions, I/O · decisions/branching | 1, 2 | 2–3, 6 | 2–3, 7 |
+| 3 | Iteration / loops | 3 | 7 | 8 |
+| 4 | Strings & sequence basics | 4 | 8 | 5 |
+| 5 | Functions: decomposition, parameters/return, scope | 5 | 5 | 6 |
+| 6 | Lists, tuples, **mutability & aliasing** ★ | 6 | 9 | 11 |
+| 7 | Dictionaries & sets · testing & debugging (formalized) | 7, 9 | 9.5, 11.4 | 11, 9 |
+| 8 | **Midterm** + review (units 0–7) | — | — | — |
+| 9 | Files & exceptions | 8 | 10, 6.4 | 5, 7 |
+| 10 | Classes & objects ★ | 10 | 12 | 10 |
+| 11 | OO design + intro inheritance ★ | 10 | 13 | 12 |
+| 12 | Recursion (numeric + non-numeric) ★ | 11 | 14 | 13 |
+| 13 | Algorithms: search, a sort, intro Big-O ★ | 12 | 14 | 13 |
+| 14 | Applications / buffer · oral presentations begin | — | — | — |
+| 15 | Wrap-up · review · presentations finish | — | — | — |
+| Finals | **Final exam** | — | — | — |
+
+★ = critical CS2 bridge (extra time + dedicated assessment). Graphics (Zelle Ch 4) is woven in as motivating enrichment, not a required week (see design rationale).
 
 ## Assessment (proposed weights — confirm with department)
 

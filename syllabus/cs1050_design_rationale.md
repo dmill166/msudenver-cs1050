@@ -37,26 +37,28 @@ If a student leaves CS1 shaky on **aliasing**, **classes**, or **recursion**, th
 
 Ordered for a no-prerequisite learner; each unit lists the MSU objective(s) it satisfies and whether it's a CS2 bridge. Math-light throughout.
 
-| # | Unit | Covers MSU obj. | CS2 bridge | Zelle 4e | MIT 6.100L |
-|---|---|---|---|---|---|
-| 00 | **Module 0 — Set up Python** (per-OS install, editor, verify) | — (enabler) | — | — | — |
-| 0 | What is computation; how programs run | 12 (SDLC intro) | — | 1 | L1 |
-| 1 | Values, types, variables, expressions, interactive I/O | 6, 7, 8 | — | 2–3 | L2 |
-| 2 | Decisions / branching | 6 | — | 7 | L2 |
-| 3 | Iteration / loops | 6 | — | 8 | L3–4 |
-| 4 | Strings & sequence basics | 6, 7 | — | 5 | L2, L4 |
-| 5 | Functions: decomposition, abstraction, parameters/return, scope | 3, 4, 5, 10 | indirect | 6 | L7–8 |
-| 6 | Lists, tuples, **mutability & aliasing** | 7 | ★★★ | 11 | L9–11 |
-| 7 | Dictionaries & sets | 7 | ★ | 11 | L14 |
-| 8 | Files & exceptions (interactive + file I/O) | 8 | — | 5, 7 | L13 |
-| 9 | Testing & debugging *(woven through, formalized here)* | 11 | ★ | 9 | L12 |
-| 10 | **Classes & OOP** (attributes, methods, encapsulation, intro inheritance) | 4, 10 | ★★★ | 10, 12 | L17–20 |
-| 11 | **Recursion** (numeric + non-numeric) | 1, 9 | ★★★ | 13 | L15–16 |
-| 12 | Algorithms: linear/binary **search**, a **sort**, **intro Big-O** | 1, 9 | ★★★ | 13 | L21–24 |
-| — | **SE & SDLC thread** (style, documentation, top-down design) | 2, 3, 9, 12 | — | 2, 9 | woven |
-| — | **Communication thread** (research paper/report + oral presentation) | (MSU-specific) | — | — | — |
+| # | Unit | Covers MSU obj. | CS2 bridge | Zelle 4e | Zelle 3e | MIT 6.100L |
+|---|---|---|---|---|---|---|
+| 00 | **Module 0 — Set up Python** (per-OS install, editor, verify) | — (enabler) | — | — | — | — |
+| 0 | What is computation; how programs run | 12 (SDLC intro) | — | 1 | 1 | L1 |
+| 1 | Values, types, variables, expressions, interactive I/O | 6, 7, 8 | — | 2–3 | 2–3 | L2 |
+| 2 | Decisions / branching | 6 | — | 6 | 7 | L2 |
+| 3 | Iteration / loops | 6 | — | 7 | 8 | L3–4 |
+| 4 | Strings & sequence basics | 6, 7 | — | 8 | 5 | L2, L4 |
+| 5 | Functions: decomposition, abstraction, parameters/return, scope | 3, 4, 5, 10 | indirect | 5 | 6 | L7–8 |
+| 6 | Lists, tuples, **mutability & aliasing** | 7 | ★★★ | 9 | 11 | L9–11 |
+| 7 | Dictionaries & sets | 7 | ★ | 9 (9.5; sets orig.) | 11 | L14 |
+| 8 | Files & exceptions (interactive + file I/O) | 8 | — | 10, 6.4 | 5, 7 | L13 |
+| 9 | Testing & debugging *(woven through, formalized here)* | 11 | ★ | 11.4, 6.4 | 9 | L12 |
+| 10 | **Classes & OOP** (attributes, methods, encapsulation, intro inheritance) | 4, 10 | ★★★ | 12, 13 | 10, 12 | L17–20 |
+| 11 | **Recursion** (numeric + non-numeric) | 1, 9 | ★★★ | 14 | 13 | L15–16 |
+| 12 | Algorithms: linear/binary **search**, a **sort**, **intro Big-O** | 1, 9 | ★★★ | 14 | 13 | L21–24 |
+| — | **SE & SDLC thread** (style, documentation, top-down design) | 2, 3, 9, 12 | — | 2, 11 | 2, 9 | woven |
+| — | **Communication thread** (research paper/report + oral presentation) | (MSU-specific) | — | — | — | — |
 
 ★ = touches a CS2 prerequisite; ★★★ = critical CS2 bridge.
+
+> **Editions:** **Zelle 4e is the structural reference** (the locked textbook); the **3e** column is a budget-friendly fallback (cheap used copies — accessibility goal). The 4e reorg split 3e's combined "Sequences" chapter (3e Ch 5) into **Strings (8)**, **Data Collections (9)**, and **Persistent Data (10)**. Divergences to flag for 3e learners: 4e teaches **f-strings** (8.6) where 3e uses `.format()`; 4e's **pathlib** (10.2.2) is absent in 3e; 4e ends at **Ch 14**, 3e at **Ch 13**. Dictionaries are *Optional* in Zelle (4e 9.5.2) and **sets** are essentially uncovered — both are original content here, by design.
 
 ## Deliberate scope decisions
 
