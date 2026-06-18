@@ -1,6 +1,6 @@
 # Lectures
 
-Lecture content for **CS 1050**. Folders follow the **13-unit design-rationale spine** — the teaching order (see the [schedule](../syllabus/cs1050_schedule_fall2026.md) and [design rationale](../syllabus/cs1050_design_rationale.md)) — one folder per topic, each built to the cross-course per-topic template (`cs-teaching` module standard + lecture framework). **Dakota is the primary author** of every lecture: the content is in his voice; assistants scaffold structure, draft mechanical parts, and edit — they do not ghost-write.
+Lecture content for **CS 1050**. Folders follow the **13-unit design-rationale spine** — the teaching order (see the [schedule](../syllabus/schedule_fall2026.md) and [design rationale](../syllabus/design_rationale.md)) — one folder per topic, each built to the cross-course per-topic template (`cs-teaching` module standard + lecture framework). **Dakota is the primary author** of every lecture: the content is in his voice; assistants scaffold structure, draft mechanical parts, and edit — they do not ghost-write.
 
 The table below is the MSU **course-of-record coverage** (the 9 catalog units → Zelle chapters), kept for outcomes mapping — *not* the folder structure.
 
@@ -18,7 +18,7 @@ The table below is the MSU **course-of-record coverage** (the 9 catalog units �
 | 8 | Looping | 7 | 8 | _planned_ |
 | 9 | Arrays / Lists (incl. linear search + selection sort) | 9, 14.1, 14.3 | 11, 13.1, 13.3 | _planned_ |
 
-> Chapter refs are given for **Zelle 4e (primary)** and **3e (budget fallback)**. These 9 are the MSU course-of-record units (for outcomes mapping); the *teaching order* follows the design-rationale spine — see the [schedule](../syllabus/cs1050_schedule_fall2026.md). Build order: weeks 1–5 teachable spine first.
+> Chapter refs are given for **Zelle 4e (primary)** and **3e (budget fallback)**. These 9 are the MSU course-of-record units (for outcomes mapping); the *teaching order* follows the design-rationale spine — see the [schedule](../syllabus/schedule_fall2026.md). Build order: weeks 1–5 teachable spine first.
 
 ## Convention
 

@@ -1,6 +1,6 @@
 # CS 1050 — Fall 2026 Schedule (MSU Denver instance)
 
-> **What this is:** a *dated instance* of the portable course design ([`cs1050_design_rationale.md`](cs1050_design_rationale.md)) mapped onto MSU Denver's **Fall 2026** academic calendar. The portable design stays general; this file is the term-specific overlay — schedule, deadlines, and how assessment is timed around the institution's drop/withdraw dates.
+> **What this is:** a *dated instance* of the portable course design ([`design_rationale.md`](design_rationale.md)) mapped onto MSU Denver's **Fall 2026** academic calendar. The portable design stays general; this file is the term-specific overlay — schedule, deadlines, and how assessment is timed around the institution's drop/withdraw dates.
 >
 > **Term:** classes Mon **Aug 17** → Sun **Dec 6, 2026**; finals **Dec 7–13**; grades posted **Dec 18**.
 
@@ -29,7 +29,7 @@ Because the **100% drop deadline is the end of Week 1** and the **50% deadline i
 
 ## Week-by-week (15 instructional weeks)
 
-> Unit numbers reference the design-rationale topic spine. Front-loaded so Weeks 1–5 form the complete "teachable spine" that gets built first. Zelle chapter↔unit mapping (**4e** primary, **3e** budget) lives in the [design rationale](cs1050_design_rationale.md) and the syllabus schedule table.
+> Unit numbers reference the design-rationale topic spine. Front-loaded so Weeks 1–5 form the complete "teachable spine" that gets built first. Zelle chapter↔unit mapping (**4e** primary, **3e** budget) lives in the [design rationale](design_rationale.md) and the syllabus schedule table.
 
 | Wk | Week of | Units / focus | Calendar notes | Assessment milestones |
 |---|---|---|---|---|

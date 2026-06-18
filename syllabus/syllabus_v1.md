@@ -1,7 +1,7 @@
 # CS 1050 — Computer Science 1
 ## Syllabus (v1 draft)
 
-> **Draft status (2026-06-14):** Built from the MSU Denver course-of-record (Regular Course Syllabus, CS 1050, Fall 2016) + the 2026 Curriculog revision + the locked Python/Zelle decision. The **content scope is governed by [`cs1050_design_rationale.md`](cs1050_design_rationale.md)** (a portable, MIT-informed, CS2-ready design); the 9 units below are the MSU course-of-record framing the design maps onto. Schedule and grading weights are *proposed*. Not yet an official section syllabus.
+> **Draft status (2026-06-14):** Built from the MSU Denver course-of-record (Regular Course Syllabus, CS 1050, Fall 2016) + the 2026 Curriculog revision + the locked Python/Zelle decision. The **content scope is governed by [`design_rationale.md`](design_rationale.md)** (a portable, MIT-informed, CS2-ready design); the 9 units below are the MSU course-of-record framing the design maps onto. Schedule and grading weights are *proposed*. Not yet an official section syllabus.
 
 ---
 
@@ -52,8 +52,8 @@ By the end of CS 1050, a student can:
 
 ## Proposed schedule (15 weeks)
 
-> **For a real term, use the dated schedule:** [`cs1050_schedule_fall2026.md`](cs1050_schedule_fall2026.md) maps the units onto MSU's Fall 2026 calendar with actual dates, holidays, drop/withdraw deadlines, and finals. The table below is the generic, date-free version.
-> Ordered by the **[design-rationale topic spine](cs1050_design_rationale.md)** (control-structures-first, MIT-aligned) — *not* the textbook's chapter order. "Unit" = spine unit; chapter columns give **Zelle 4e (primary)** and **3e (budget)**. Front-loaded so weeks 1–5 form a complete "teachable spine."
+> **For a real term, use the dated schedule:** [`schedule_fall2026.md`](schedule_fall2026.md) maps the units onto MSU's Fall 2026 calendar with actual dates, holidays, drop/withdraw deadlines, and finals. The table below is the generic, date-free version.
+> Ordered by the **[design-rationale topic spine](design_rationale.md)** (control-structures-first, MIT-aligned) — *not* the textbook's chapter order. "Unit" = spine unit; chapter columns give **Zelle 4e (primary)** and **3e (budget)**. Front-loaded so weeks 1–5 form a complete "teachable spine."
 
 | Wk | Focus | Unit | Zelle 4e | Zelle 3e |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ Solution keys, exams, and rubrics are maintained privately and are not published
 
 ## Accessibility & use
 
-These are **independent, open materials** for self-paced learners and instructors. When taught for credit, accessibility/disability accommodations, academic-integrity, and other institutional policies are governed by the official section syllabus at the offering institution. Spotted an access barrier in these materials? Please [open an issue](https://github.com/dmill166/msudenver-cs1050/issues).
+These are **independent, open materials** for self-paced learners and instructors. When taught for credit, accessibility/disability accommodations, academic-integrity, and other institutional policies are governed by the official section syllabus at the offering institution. Spotted an access barrier in these materials? Please [open an issue](https://github.com/dmill166/computer-science-1/issues).
