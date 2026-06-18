@@ -1,7 +1,7 @@
 # Computer Science 1
 ## Syllabus (v1 draft)
 
-> **Draft status (2026-06-14):** Built from the MSU Denver course-of-record (Regular Course Syllabus, CS 1050, Fall 2016) + the 2026 Curriculog revision + the locked Python/Zelle decision. The **content scope is governed by [`design_rationale.md`](design_rationale.md)** (a portable, MIT-informed, CS2-ready design); the 9 units below are the MSU course-of-record framing the design maps onto. Schedule and grading weights are *proposed*. Not yet an official section syllabus.
+> **Draft (v1).** A portable Computer Science 1 syllabus — its content scope is governed by the [design rationale](design_rationale.md) (MIT-informed, CS2-ready, no-prerequisite). The units map to recognized CS1 outcomes (ABET CAC, ACM/IEEE-CS CS2023) and to MSU Denver's CS 1050 objectives, for alignment. Schedule and grading weights are *proposed*; this isn't yet an official section syllabus for any institution.
 
 ---
 
@@ -11,11 +11,11 @@
 |---|---|
 | **Course** | Computer Science 1 |
 | **Credits** | 4 (all lecture; 60 lecture hours + ~120 hours additional student work) |
-| **Prerequisite** | **None** (per the 2026 Curriculog revision, which removes the MTH 1110 math-readiness gate to broaden access; no prior Python assumed). *Historical course-of-record listed: CS 1030 with "C" or better, or readiness for MTH 1110.* |
+| **Prerequisite** | **None.** No prior programming and no math beyond basic arithmetic are assumed — the course teaches what it needs from scratch. |
 | **Language** | Python 3 |
 | **Textbook** | John Zelle, *Python Programming: An Introduction to Computer Science*, 4th ed. (Franklin, Beedle & Associates, 2024) |
 
-## Catalog description (course-of-record)
+## Catalog description
 
 First course in the computer science core sequence. Emphasis on algorithm development, correctness, and programming style; an introduction to software engineering and the software development life cycle. Students learn to design, implement, document, test, and debug programs that solve simple-to-medium problems.
 
